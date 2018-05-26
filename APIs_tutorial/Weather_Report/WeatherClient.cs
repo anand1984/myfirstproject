@@ -12,6 +12,7 @@ namespace Weather_Report
     {
         static void Main(string[] args)
         {
+            //loop it
             while (true)
             {
                 Console.WriteLine("Enter Action:");
